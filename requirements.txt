@@ -1,0 +1,9 @@
+albumentations==1.3.1
+segmentation-models-pytorch
+timm
+torch
+numpy
+opencv-python-headless
+matplotlib
+seaborn
+scikit-learn
