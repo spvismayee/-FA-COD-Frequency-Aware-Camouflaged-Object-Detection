@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.onnx
+
+# Dataset and local data
+data/
+datasets/
+CAMO-V.1.0-CVIU2019/
+
+# Logs and temporary files
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
